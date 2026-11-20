@@ -1,8 +1,8 @@
 <div align="center">
 <img src="banner.svg" alt="Banner pixel art" width="100%">
-# NAMA-PROYEK-KAMU
+Hi there 👋, I'M Nicco Hartawan Wibowo
  
-**Satu kalimat yang menjelaskan proyek ini, ditulis untuk orang yang baru pertama kali melihatnya.**
+**Aku adalah seorang Developer Junior yang masih di level 1 Dalam pengembangan Aplikasi atau Website disini aku masih belajar beberapa pengalaman dan lain lain**
  
 ![Status](https://img.shields.io/badge/STATUS-LEVEL_1-ffd23f?style=for-the-badge&labelColor=1b1b2f)
 ![Versi](https://img.shields.io/badge/VERSI-0.1.0-2ec4b6?style=for-the-badge&labelColor=1b1b2f)
