@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.svg" alt="Banner pixel art" width="100%">
+<img src="banner.svg" alt="Banner pixel art" width="100%">
 # NAMA-PROYEK-KAMU
  
 **Satu kalimat yang menjelaskan proyek ini, ditulis untuk orang yang baru pertama kali melihatnya.**
