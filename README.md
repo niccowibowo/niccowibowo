@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.svg" alt="Banner pixel art" width="100%">
+<img src="banner.svg" href="https://niccowibowo.github.io/Game/" alt="Banner pixel art" width="100%">
 Hi there 👋, I'M Nicco Hartawan Wibowo
  
 **Aku adalah seorang Developer Junior yang masih di level 1 Dalam pengembangan Aplikasi atau Website disini aku masih belajar beberapa pengalaman dan lain lain**
