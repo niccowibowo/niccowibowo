@@ -9,7 +9,7 @@ Hi there 👋, I'M Nicco Hartawan Wibowo
 ![Lisensi](https://img.shields.io/badge/LISENSI-MIT-3a86ff?style=for-the-badge&labelColor=1b1b2f)
 ![PRs](https://img.shields.io/badge/PRs-WELCOME-e63946?style=for-the-badge&labelColor=1b1b2f)
  
-[Main Game](https://USERNAME.github.io/NAMA-REPO/game/) · [Demo](https://USERNAME.github.io/NAMA-REPO/) · [Laporkan Bug](https://github.com/USERNAME/NAMA-REPO/issues) · [Request Fitur](https://github.com/USERNAME/NAMA-REPO/issues)
+[Main Game](https://niccowibowo.github.io/Game/) · [Demo](https://niccowibowo.github.io/Game/) · [Laporkan Bug](https://github.com/USERNAME/NAMA-REPO/issues) · [Request Fitur](https://github.com/USERNAME/NAMA-REPO/issues)
  
 </div>
 ---
