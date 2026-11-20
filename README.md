@@ -1,108 +1,171 @@
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=171717&height=260&section=header&text=NICCO&fontSize=110&fontColor=E5FF00&fontAlignY=43&desc=DESIGN%20%E2%80%A2%20MOTION%20%E2%80%A2%20TECHNOLOGY&descSize=14&descColor=FFFFFF&descAlignY=72" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&duration=3000&pause=1000&color=171717&center=true&vCenter=true&width=500&lines=CREATIVE+DEVELOPER;DESIGN+MEETS+TECHNOLOGY;BUILDING+DIGITAL+EXPERIENCES" />
-
-<br/><br/>
-
-[PORTFOLIO](#) &nbsp; / &nbsp;
-[INSTAGRAM](#) &nbsp; / &nbsp;
-[LINKEDIN](#)
-
+<img src="assets/banner.svg" alt="Banner pixel art" width="100%">
+# NAMA-PROYEK-KAMU
+ 
+**Satu kalimat yang menjelaskan proyek ini, ditulis untuk orang yang baru pertama kali melihatnya.**
+ 
+![Status](https://img.shields.io/badge/STATUS-LEVEL_1-ffd23f?style=for-the-badge&labelColor=1b1b2f)
+![Versi](https://img.shields.io/badge/VERSI-0.1.0-2ec4b6?style=for-the-badge&labelColor=1b1b2f)
+![Lisensi](https://img.shields.io/badge/LISENSI-MIT-3a86ff?style=for-the-badge&labelColor=1b1b2f)
+![PRs](https://img.shields.io/badge/PRs-WELCOME-e63946?style=for-the-badge&labelColor=1b1b2f)
+ 
+[Main Game](https://USERNAME.github.io/NAMA-REPO/game/) · [Demo](https://USERNAME.github.io/NAMA-REPO/) · [Laporkan Bug](https://github.com/USERNAME/NAMA-REPO/issues) · [Request Fitur](https://github.com/USERNAME/NAMA-REPO/issues)
+ 
 </div>
-
 ---
-
-<div align="center">
-
-## WE MAKE IDEAS
-## LOOK DIFFERENT.
-
-**Independent Creative Developer** based in Indonesia.
-
-</div>
-
-<br/>
-
-### 01 — INTRODUCTION
-
-I'm Nicco Wibowo, a creative-minded developer exploring the intersection of visual design and technology.
-
-Coming from a Visual Communication Design background, I enjoy creating visual identities, designing digital interfaces, and building interactive web experiences.
-
-My approach is simple: **Think visually. Design intentionally. Build creatively.**
-
-<br/>
-
-### 02 — WHAT I DO
-
-| DISCIPLINE | EXPERTISE |
-|:--|:--|
-| 01 / GRAPHIC DESIGN | Branding, Visual Identity, Art Direction |
-| 02 / UI & UX | Interface Design, Design Systems |
-| 03 / DEVELOPMENT | Frontend, Responsive Websites |
-| 04 / CREATIVE TECH | Motion, Digital Experiments |
-
-<br/>
-
-### 03 — SELECTED TOOLS
-
-**DESIGN**
-
-![Figma](https://img.shields.io/badge/Figma-171717?style=for-the-badge&logo=figma&logoColor=E5FF00)
-![Illustrator](https://img.shields.io/badge/Illustrator-171717?style=for-the-badge&logo=adobeillustrator&logoColor=E5FF00)
-![Photoshop](https://img.shields.io/badge/Photoshop-171717?style=for-the-badge&logo=adobephotoshop&logoColor=E5FF00)
-![After Effects](https://img.shields.io/badge/After_Effects-171717?style=for-the-badge&logo=adobeaftereffects&logoColor=E5FF00)
-![Blender](https://img.shields.io/badge/Blender-171717?style=for-the-badge&logo=blender&logoColor=E5FF00)
-
-**DEVELOPMENT**
-
-![HTML](https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=E5FF00)
-![CSS](https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=E5FF00)
-![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=E5FF00)
-![PHP](https://img.shields.io/badge/PHP-171717?style=for-the-badge&logo=php&logoColor=E5FF00)
-![Tailwind](https://img.shields.io/badge/Tailwind-171717?style=for-the-badge&logo=tailwindcss&logoColor=E5FF00)
-
-<br/>
-
-### 04 — SELECTED PROJECTS
-
-**01 / SIROBOT**
-
-Robotics Organization — Website & Digital Experience.
-
-**02 / LOKARUPA**
-
-Creative Branding — Visual Identity & Design Exploration.
-
-**03 / MODUL LKS**
-
-Digital Learning Platform — UI/UX & Web Development.
-
-<br/>
-
-### 05 — GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=171717&title_color=E5FF00&text_color=FFFFFF&icon_color=E5FF00" width="90%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=171717&title_color=E5FF00&text_color=FFFFFF" width="90%"/>
-
-</div>
-
+ 
+## Main Game Mini
+ 
+Istirahat sebentar sebelum baca dokumentasi. Game platformer pixel ada di folder [`game/`](game/index.html), jalan langsung di browser tanpa instalasi.
+ 
+| Tombol | Aksi |
+|---|---|
+| Panah kiri / kanan atau `A` / `D` | Jalan |
+| Spasi atau panah atas | Lompat (tahan lebih lama untuk lompat lebih tinggi) |
+| Injak slime | Kalahkan musuh (+100) |
+| Ambil koin | +10 |
+| Capai bendera | Menang |
+ 
+Di HP, tombol layar muncul otomatis.
+ 
+> GitHub tidak menjalankan JavaScript di dalam README. Karena itu game di-host lewat GitHub Pages dan di-link dari sini. Lihat bagian [Aktifkan GitHub Pages](#aktifkan-github-pages).
+ 
 ---
-
+ 
+## Tentang Proyek
+ 
+Jelaskan di sini:
+ 
+- Masalah apa yang diselesaikan proyek ini
+- Siapa yang akan memakainya
+- Apa yang membedakannya dari alternatif lain
+### Fitur
+ 
+- [x] Fitur yang sudah jadi
+- [x] Fitur lain yang sudah jadi
+- [ ] Fitur yang sedang dikerjakan
+### Teknologi
+ 
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+ 
+Ganti atau tambah badge sesuai stack kamu di [shields.io](https://shields.io).
+ 
+---
+ 
+## Tampilan
+ 
+<!-- Taruh screenshot di folder assets/ lalu ganti nama file di bawah -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=171717&height=130&section=footer&text=MAKE%20SOMETHING%20MATTERS.&fontSize=25&fontColor=E5FF00&fontAlignY=50" width="100%"/>
-
-**NICCO® — DESIGN WITH INTENTION.**
-
-<sub>© 2026 NICCO WIBOWO / INDONESIA</sub>
-
+  <img src="assets/screenshot.png" alt="Screenshot aplikasi" width="80%">
 </div>
+---
+ 
+## Mulai Cepat
+ 
+### Prasyarat
+ 
+- Node.js 18 atau lebih baru (hapus jika tidak dipakai)
+- Git
+### Instalasi
+ 
+```bash
+# 1. Clone repositori
+git clone https://github.com/USERNAME/NAMA-REPO.git
+ 
+# 2. Masuk ke folder proyek
+cd NAMA-REPO
+ 
+# 3. Pasang dependensi
+npm install
+ 
+# 4. Jalankan
+npm run dev
+```
+ 
+### Contoh Penggunaan
+ 
+```js
+// Tunjukkan contoh kode paling sederhana yang berhasil dijalankan
+import { halo } from './src/index.js';
+ 
+halo('dunia');
+```
+ 
+---
+ 
+## Struktur Folder
+ 
+```text
+NAMA-REPO/
+├── assets/
+│   └── banner.svg        # banner animasi di bagian atas README
+├── game/
+│   └── index.html        # mini game, satu file
+├── src/                  # kode utama proyek
+├── README.md
+└── LICENSE
+```
+ 
+---
+ 
+## Aktifkan GitHub Pages
+ 
+Supaya game bisa dimainkan lewat link:
+ 
+1. Buka repositori di GitHub, lalu **Settings → Pages**.
+2. Di **Build and deployment**, pilih **Deploy from a branch**.
+3. Pilih branch `main` dan folder `/ (root)`, lalu **Save**.
+4. Tunggu satu sampai dua menit. Game bisa dibuka di `https://USERNAME.github.io/NAMA-REPO/game/`.
+5. Ganti semua `USERNAME` dan `NAMA-REPO` di README ini dengan milik kamu.
+---
+ 
+## Kustomisasi Game
+ 
+Semua pengaturan level ada di bagian `LEVEL` pada `game/index.html`:
+ 
+| Variabel | Fungsi |
+|---|---|
+| `gaps` | Posisi lubang di tanah, format `[kolomAwal, kolomAkhir]` |
+| `plats` | Platform melayang, format `[kolomAwal, kolomAkhir, baris]` |
+| `enemyCols` | Kolom tempat slime muncul |
+| `HERO`, `SLIME` | Sprite karakter, satu huruf per piksel, warna ada di `PAL` |
+ 
+Ingin karakter sendiri? Ubah teks pada `HERO` dan `PAL`, simpan, lalu refresh browser.
+ 
+---
+ 
+## Roadmap
+ 
+- [ ] Tambah level 2
+- [ ] Tambah musik dan efek suara 8-bit
+- [ ] Papan skor tertinggi
+Lihat [issues](https://github.com/USERNAME/NAMA-REPO/issues) untuk daftar lengkap fitur yang diusulkan.
+ 
+---
+ 
+## Kontribusi
+ 
+Kontribusi sangat diterima.
+ 
+1. Fork repositori ini
+2. Buat branch fitur: `git checkout -b fitur/nama-fitur`
+3. Commit perubahan: `git commit -m "Tambah nama-fitur"`
+4. Push ke branch: `git push origin fitur/nama-fitur`
+5. Buka Pull Request
+---
+ 
+## Lisensi
+ 
+Dirilis dengan lisensi MIT. Lihat [`LICENSE`](LICENSE) untuk detailnya.
+ 
+## Kontak
+ 
+**Nama Kamu** · [@USERNAME](https://github.com/USERNAME) · email@contoh.com
+ 
+<div align="center">
+**GAME OVER? Beri bintang di atas untuk lanjut main.**
+ 
+</div>
+ 
